@@ -43,7 +43,7 @@ body {
 }
 
 .box {
-  width: calc(80% - 4rem);
+  width: calc(80% - 3rem);
   height: 80%;
   border: 0.25em solid;
   border-top-color: #7f00ff;
@@ -55,7 +55,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 2rem auto;
-  padding: 2rem;
+  margin: 1.5rem auto;
+  padding: 1.5rem;
   box-sizing: border-box;
 }
