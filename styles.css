@@ -35,8 +35,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    background-size: cover;
     background: linear-gradient(#000031 0%, #2f2f4d 35%, #442450 85%, #bb00ff 100%);
     background-position: bottom left;
     background-repeat: no-repeat;
