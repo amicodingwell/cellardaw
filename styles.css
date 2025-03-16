@@ -6,6 +6,7 @@ html, body {
     background: linear-gradient(#000031 0%, #2f2f4d 35%, #442450 85%, #bb00ff 100%);
     background-attachment: fixed;
     height: 100%;
+    width: 100%;
 }
 
 body {
