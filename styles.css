@@ -2,15 +2,14 @@ html, body {
 
     font-family: "Bodoni 72", sans-serif;
     font-size: 16px;
-	
-    background: linear-gradient(#000031 0%, #2f2f4d 35%, #442450 85%, #bb00ff 100%);
-    background-attachment: fixed;
-    background-size: cover;
     height: 100%;
     width: 100%
 }
 
 body {
+    background: linear-gradient(#000031 0%, #2f2f4d 35%, #442450 85%, #bb00ff 100%);
+    background-attachment: fixed;
+    background-size: 100% 100%;
     min-height: 100%;
     margin: 0;
     padding: 0;
