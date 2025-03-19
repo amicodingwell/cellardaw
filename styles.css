@@ -1,8 +1,8 @@
 html, body {
 
-    font-family: "Bodoni 72", sans-serif;
-    font-size: 20px;
-    color: #7f00ff;
+    font-family: "Robotto", sans-serif;
+    font-size: 1.1rem;
+    color: #ffffff;
 }
 
 body {
@@ -12,11 +12,34 @@ body {
     padding: 0;
 }
 
+.footer {
+    font-size: 0.8rem;
+}
+
+.centered {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.heading-1-pink {
+    font-weight: bold;
+    color:#bb00ff;
+    font-size: 3.5rem;
+}
+
+.heading-1-purple {
+    font-weight: bold;
+    color:#7f00ff;
+    font-size: 2.5rem;
+}
+
 .logo-container img {
-  width: 50%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
+    width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 @media only screen and (max-width: 600px) {
@@ -60,8 +83,8 @@ body {
   border-left-color: #7f00ff;
   border-right-color:  #bb00ff;
   border-bottom-color: #bb00ff;
-  color: #9d48f4;
-  background-color: #5300a6;
+  color: #ffffff;
+  background-color: #572ba2;
   /*display: flex;
   justify-content: center;
   align-items: center; */
